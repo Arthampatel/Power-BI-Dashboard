@@ -1,6 +1,8 @@
-![Screenshot (85)](https://github.com/Arthampatel/Power-BI-Dashboard/assets/140424795/a253fdf0-be5f-4ce9-9fa6-83f34a85127e)# HR ANALYTICAL POWER BI DASHBOARD
+**#HR Analytics Power BI Dashboard**
+
 **Overview**
 This Power BI Dashboard provides a comprehensive and interactive view of HR-related metrics and analytics. It is designed to assist HR professionals and decision-makers in gaining valuable insights into various aspects of the workforce.
+
 **Dashboard Screenshots**
 ![Screenshot (84)](https://github.com/Arthampatel/Power-BI-Dashboard/assets/140424795/e2a5dd6f-17a1-4174-8619-dab001a664ec)
 ![Screenshot (85)](https://github.com/Arthampatel/Power-BI-Dashboard/assets/140424795/a6fbfdc1-3ee4-4fc9-ab58-484d438307a8)
